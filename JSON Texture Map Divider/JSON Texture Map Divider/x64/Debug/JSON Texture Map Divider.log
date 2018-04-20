@@ -1,0 +1,4 @@
+﻿  Divider.cpp
+c:\users\me\source\repos\json texture map divider\json texture map divider\divider.cpp(23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\me\source\repos\json texture map divider\json texture map divider\divider.cpp(213): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  JSON Texture Map Divider.vcxproj -> C:\Users\ME\source\repos\JSON Texture Map Divider\x64\Debug\JSON Texture Map Divider.exe
